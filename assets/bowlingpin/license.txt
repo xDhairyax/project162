@@ -1,0 +1,11 @@
+Model Information:
+* title:	BowlingPin
+* source:	https://sketchfab.com/3d-models/bowlingpin-320d74038d7d49fba699d5711202141b
+* author:	A_dub (https://sketchfab.com/A_dub)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BowlingPin" (https://sketchfab.com/3d-models/bowlingpin-320d74038d7d49fba699d5711202141b) by A_dub (https://sketchfab.com/A_dub) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
